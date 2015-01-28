@@ -5,6 +5,7 @@ def introductions():
 	print  ("HI. I AM KEVIN")
 
 
-
+def foo():
+	print("bar")
 
 
